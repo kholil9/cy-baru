@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cypress": "^13.2.0"
+  },
+  "name": "cypress-baru",
+  "version": "1.0.0",
+  "description": "new challenge",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "kholil",
+  "license": "ISC"
+}
